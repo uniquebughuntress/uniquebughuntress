@@ -169,7 +169,7 @@ Real-world QA exercises, exploratory testing, bug reports, test cases and softwa
 
 # 📫 Let's Connect
 
-💼 [**LinkedIn**](www.linkedin.com/in/uniquebughuntress)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Natalya%20Schwarz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uniquebughuntress/)
 
 
 
