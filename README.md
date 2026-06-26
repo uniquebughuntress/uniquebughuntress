@@ -1,120 +1,144 @@
-# 👋 Hi, I'm a QA Engineer who loves breaking software (professionally)
+# 👋 Hi, I'm Natalya – Software QA Engineer
 
-## About Me
+I enjoy understanding complex systems, analyzing business processes, and finding software defects before users do.
 
-I have a background in **Business Informatics**, several years of experience in **Software Testing and Quality Assurance**, and after a few years of parental leave I am now back — **with full energy, strong coffee, and even stronger motivation to find bugs.** ☕🐞
+With several years of experience in enterprise software testing and a background in Business Information Systems, I specialize in manual testing, test analysis, test design, and system-wide end-to-end testing. Throughout my career I have worked closely with developers, business stakeholders, and project managers to ensure software quality across the entire Software Development Life Cycle (SDLC).
 
-I worked in agile software projects, tested complex systems, wrote and updated test cases, performed end-to-end tests, supported user acceptance testing, and improved business processes.
-I was often the **bridge between business and IT**, which means I don’t just test features — I try to understand the whole system, the processes behind it, and how real users will actually use it.
-
-I don’t like testing only step by step.
-I like **exploratory testing, real scenarios, edge cases, and breaking things in creative ways.**
-
-Currently, I am expanding my technical skills in **Python, Web Development, and Test Automation** as part of a Software Engineering Bootcamp.
+After a career break for parental leave, I returned to software engineering through an intensive Software Engineering Bootcamp, where I am expanding my expertise in Python, Selenium, test automation, and modern software development.
 
 ---
 
-## 🧠 My Testing Mindset
+## 🧠 My QA Mindset
 
-When I test software, I don’t just ask:
+I don't just verify whether software works.
 
-> “Does it work?”
+I try to understand:
 
-I ask:
+* the business processes behind the software
+* how systems interact with each other
+* where quality risks arise
+* how users actually behave
+* what happens when reality doesn't follow the happy path
 
-* What happens if the user does something unexpected?
-* What happens with wrong data?
-* What happens if the process is interrupted?
-* What happens if two users do the same thing at the same time?
-* What happens after 1000 records?
-* What happens if the user clicks twice?
-* What happens if the session expires?
-* What happens if the system talks to another system and something fails?
-
-I like to test **from both sides**:
-
-* Developer / technical perspective
-* End user / business perspective
+Good testing means understanding the entire system - not just individual features.
 
 ---
 
-## 💼 What I Did in QA
+## 💼 Professional Experience
 
+### Enterprise Software Testing
+
+* Test Analysis
+* Test Design
 * Manual Testing
-* End-to-End Testing
 * Exploratory Testing
+* End-to-End Testing
+* Integration Testing
 * Regression Testing
+* Smoke Testing
 * User Acceptance Testing (UAT)
-* Writing & maintaining test cases
-* Creating test scenarios
-* Finding bugs that somehow survived for years
-* Working in Agile / Scrum teams
-* Improving business processes
-* Process modeling (BPMN, Signavio)
-* Testing multiple applications and projects in parallel
+* Defect Analysis & Bug Reporting
+* Requirements Reviews
+* Root Cause Analysis
+
+### Business & Process Analysis
+
+* Business Process Analysis
+* Requirements Analysis
+* BPMN 2.0
+* UML
+* Data Analysis
+* Process Modeling
+* Quality Risk Analysis
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-**Testing**
-
-* Manual Testing
-* Test Case Design
-* End-to-End Testing
-* Exploratory Testing
-* Agile / Scrum
-
-**Programming & Web**
+### Languages & Web
 
 * Python
 * Java
+* PHP
 * HTML5
 * CSS3
 * JavaScript
-* SQL / NoSQL
+* SQL / PL/SQL / NoSQL
 
-**Tools**
+### Test & QA
 
-* Git, GitHub, GitLab, BitBucket
-* JetBrains (IntelliJ IDEA, PyCharm, WebStorm, DataGrip)
-* Eclipse, NetBeans
-* Signavio (BPMN 2.0)
-* Atlassian (JIRA, X-Ray, Confluence)
+* Jira
+* Xray
+* Selenium
+* SoapUI
+* Confluence
+
+### DevOps & Version Control
+
+* Git
+* GitHub
+* GitLab
+* Bitbucket
+* Jenkins
+* SVN
+
+### Databases
+
+* PostgreSQL
+* Oracle Database
+* MySQL
+* SQLite
+* MongoDB
+* Elasticsearch
 
 ---
 
-## 🎯 Current Focus
+## 🚀 Current Focus
+
+Currently building projects in:
 
 * Python
+* Pytest
+* Selenium
 * Test Automation
-* Web Development
-* Software Engineering
-* Git & Clean Code
-* Testing Strategies
 * API Testing
-* Automation Tools (Selenium / Playwright)
+* Web Development
+* Clean Code
+* Software Quality Engineering
 
 ---
 
-## ⚡ Fun Facts
+## 📂 Portfolio
 
-* I enjoy finding bugs more than finding my keys.
-* I don’t just test software — I investigate it.
-* I like exploratory testing because users never behave like in test cases.
-* I worked on multiple projects at the same time and actually enjoyed it.
-* If something can break, I will probably find the way.
-*  Coffee is part of my tech stack.
+This GitHub profile documents my journey from experienced manual QA toward Quality Engineering.
+
+Repositories include:
+
+* Python fundamentals
+* Test automation
+* Pytest exercises
+* Selenium projects
+* Web development
+* QA portfolio projects
+
+---
+
+## ⚡ A Few Fun Facts
+
+* I genuinely enjoy exploratory testing.
+* I like complex enterprise systems more than simple CRUD applications.
+* I naturally think in business processes and system interactions.
+* I enjoy investigating defects more than simply reproducing them.
+* Coffee is still part of my tech stack. ☕🐞
 
 ---
 
 ## 🐞 My Philosophy
 
-> Good developers write code that works.
-> Good testers find bugs.
-> Great QA engineers understand the system, the users, the data, and the processes — and then find the bugs no one expected.
+Quality is not achieved by executing test cases.
 
----
+Quality comes from understanding requirements, business processes, data, users, and system interactions and asking the questions nobody else asked.
+
+> **Good software solves problems. Great software earns trust. Quality Engineering helps achieve both.**
 
 ⭐ Thanks for visiting my profile!
-
