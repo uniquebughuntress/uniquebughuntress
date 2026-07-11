@@ -127,24 +127,6 @@ Real-world QA exercises, exploratory testing, bug reports, test cases and softwa
 
 ---
 
-# 🚀 Learning Journey
-
-```text
-🐍 Python             ███░░░░░░░ 30%
-
-🧪 Pytest             ███░░░░░░░ 30%
-
-🤖 Selenium           ░░░░░░░░░░ 0%
-
-🌐 Playwright         ░░░░░░░░░░ 0%
-
-🐳 Docker             ░░░░░░░░░░ 0%
-```
-
-> Every repository in this profile represents another step on my journey from experienced Enterprise Software QA toward modern Quality Engineering.
-
----
-
 # ☕ Fun Facts
 
 🐞 I genuinely enjoy exploratory testing.
