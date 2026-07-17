@@ -3,7 +3,7 @@
 
 # Software QA Engineer
 
-### Enterprise Software Testing • Business Process Analysis • Quality Engineering
+### Software Quality Engineering • Enterprise Software Testing • Business Process Analysis
 
 ---
 
@@ -76,8 +76,7 @@ Because software quality is created where technology and business meet.
 
 A growing collection of software testing documentation, QA methodologies and automation projects.
 
-➡️ **QA Portfolio:**  
-https://github.com/uniquebughuntress/QA-Portfolio
+➡️ [**QA Portfolio**](https://github.com/uniquebughuntress/QA-Portfolio)
 
 ---
 
